@@ -14,7 +14,7 @@ Estou construindo minha carreira em **Product Owner** e **logística**, aprenden
 | Projeto | O que resolve | Tecnologias |
 |---|---|---|
 | [🚚 RotaCerta](https://github.com/RICKllh/rotacerta) | Banco de dados de uma transportadora fictícia: frota, motoristas, rotas, pedidos e ocorrências, com regras de negócio dentro do banco | MySQL 8 · Workbench |
-| [📊 Dashboard de Vendas no Varejo](https://github.com/RICKllh/An-lise-de-vendas-e-padr-es-no-varejo-com-ia) | Painel com faturamento por categoria, canal, vendedor e top produtos, lendo dados direto do Google Sheets | HTML · CSS · JavaScript · Google Sheets |
+| [📊 Dashboard de Vendas no Varejo](https://github.com/RICKllh/analise-vendas-varejo) · [ver no ar](https://rickllh.github.io/analise-vendas-varejo/) | Painel com faturamento por categoria, canal, vendedor e top produtos, lendo dados direto do Google Sheets | HTML · CSS · JavaScript · Google Sheets |
 
 ---
 
